@@ -1,4 +1,6 @@
 import './App.css';
+import PostThumbnail from './components/PostThumbnail';
+import meeting01 from './images/meeting01.png';
 
 
 
@@ -13,7 +15,7 @@ function App() {
           </title>
         
 
-        <div>
+        <div id='title-container'>
           <h1>
             Etown Homelab Blog
           </h1>
@@ -27,9 +29,11 @@ function App() {
           <h2>
             Posts
           </h2>
-
-          <img src= "../images/meeting01.png" alt= "Meeting 01"/>
-          
+          <div id="posts-container">
+            <PostThumbnail title="Setup Meeting" img={meeting01} alt="Meeting Img">
+              The start of the etown homelab
+            </PostThumbnail>
+          </div>
 
 
 

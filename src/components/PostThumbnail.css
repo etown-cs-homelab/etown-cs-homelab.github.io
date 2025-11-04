@@ -1,0 +1,16 @@
+img
+{
+    width:250px;
+    height:150px;
+}
+#thumb-container
+{
+    border:2px solid;
+    border-radius: 10px;
+    padding:10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #c8c8c8A9;
+}
