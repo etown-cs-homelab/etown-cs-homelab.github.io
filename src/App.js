@@ -20,7 +20,7 @@ function App() {
             Etown Homelab Blog
           </h1>
           <p>
-            Welcome to the Etown Homelab Blog! This is a space where we share insights, tutorials, and updates about our home lab projects and experiments.
+            Welcome to the Etown Homelab Blog!
           </p>
         </div>
 
