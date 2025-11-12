@@ -4,15 +4,15 @@ function PostThumbnail({title, children, img, alt, info})
 {
     return (
         <div id="thumb-container">
-            <button onClick={() => window.location.href = info}>
+            <div className="thumb-content">
                 <h3>{title}</h3>
-                <img src={img} alt ={alt} />
+                <img src={img} alt={alt} />
                 <div>
                     <p>
                         {children}
                     </p>
                 </div>
-            </button>
+            </div>
         </div>
     );
 }

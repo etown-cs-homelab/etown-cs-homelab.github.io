@@ -1,0 +1,35 @@
+
+
+.post {
+    background-color: white;
+    width: 60%;
+    border: black 2px solid;
+    border-radius: 10px;
+    
+}
+
+#title-container {
+  background-color: #0A2240;
+  width: 100%;
+}
+
+.post-controls {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.postHeader {
+    font-size: 32px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.postContent {
+    font-size: 18px;
+    color: black;
+    line-height: 1.6;
+    white-space: pre-wrap;
+}
+
+
