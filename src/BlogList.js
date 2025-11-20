@@ -4,11 +4,12 @@ import './Blog.css';
 
 // post thumbnail images
 import meeting01 from './images/meeting01.png';
+import hardwareSetup from './images/computers.JPG';
 
 
 const posts = [
   { id: 'postOne', title: 'Meeting with Netizen - 10/23/25', image: meeting01 },
-  { id: 'postTwo', title: 'Hardware Setup', image: null },
+  { id: 'postTwo', title: 'Hardware Setup - 11/20/25', image: hardwareSetup },
     // TODO: Add more posts
 ];
 
