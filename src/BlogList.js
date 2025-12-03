@@ -20,8 +20,12 @@ const BlogList = () => {
         <div className="thumbnails-container">
             {posts.map((post) => (
                 <ul key={post.id} className="post">
-                    <img src={post.image} alt={post.title} style={{ width: '400px', height: 'auto' }} />
-                    <Link to={`/posts/${post.id}`}>{post.title}</Link>
+                    {/* <img src={post.image} alt={post.title} style={{ width: '400px', height: 'auto' }} /> */}
+                    <Link to={`/posts/${post.id}`}>
+                      <img src={post.image} alt={post.title} style={{ width: '400px', height: 'auto' }} />
+                      <br />
+                      {post.title}
+                    </Link>
                 </ul>
             ))}
         </div>
