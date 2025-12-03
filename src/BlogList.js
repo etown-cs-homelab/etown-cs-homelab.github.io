@@ -9,7 +9,7 @@ import hardwareSetup from './images/computers.JPG';
 
 const posts = [
   { id: 'postOne', title: 'Meeting with Netizen - 10/23/25', image: meeting01 },
-  { id: 'postTwo', title: 'Hardware Setup - 11/20/25', image: hardwareSetup },
+  { id: 'postTwo', title: 'Network Setup - 11/20/25', image: hardwareSetup },
     // TODO: Add more posts
 ];
 
