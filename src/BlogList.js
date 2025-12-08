@@ -5,11 +5,13 @@ import './Blog.css';
 // post thumbnail images
 import meeting01 from './images/meeting01.png';
 import hardwareSetup from './images/computers.JPG';
+import pcLayout from './images/setup_12052025.jpg';
 
 
 const posts = [
   { id: 'postOne', title: 'Meeting with Netizen - 10/23/25', image: meeting01 },
   { id: 'postTwo', title: 'Network Setup - 11/20/25', image: hardwareSetup },
+  { id: 'postThree', title: 'PC Layout - 12/5/25', image: pcLayout},
     // TODO: Add more posts
 ];
 
