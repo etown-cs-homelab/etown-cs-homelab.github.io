@@ -1,7 +1,7 @@
 import './App.css';
 import BlogPost from './BlogPost';
 import BlogList from './BlogList';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 
 
 
