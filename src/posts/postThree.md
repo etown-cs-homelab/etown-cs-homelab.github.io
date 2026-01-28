@@ -2,7 +2,7 @@
 
 ![PC Layout](/images/setup_12052025.jpg) \
 ##
-After setting up our network [Post Two](/posts/postTwo), we of course needed to add some actual machines to go with it. While there will be more added eventually, here's what we've got as of December 2025. Note that these lists do not reference the devices already covered by the aforementioned network article. \
+After setting up our network [Post Two](https://etown-cs-homelab.github.io/posts/postTwo), we of course needed to add some actual machines to go with it. While there will be more added eventually, here's what we've got as of December 2025. Note that these lists do not reference the devices already covered by the aforementioned network article.
 
 
 ## Desktops
