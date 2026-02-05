@@ -14,6 +14,7 @@ const posts = [
   { id: 'postTwo', title: 'Network Setup - 11/20/25', image: hardwareSetup },
   { id: 'postThree', title: 'PC Layout - 12/5/25', image: pcLayout},
   { id: 'postFour', title: 'Meeting with Netizen - 1/15/26', image: etownLogo},
+  { id: 'postFive', title: 'Meeting with Netizen - 1/29/26', image: etownLogo},
     // TODO: Add more posts
 ];
 
