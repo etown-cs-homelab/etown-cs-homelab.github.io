@@ -1,5 +1,8 @@
 # Wuzah Server Installation
 
+
+![Wuzah](/images/wazuh.png)
+
 ## Setting up the Linux Server
 To setup the Wuzah server, we first needed a computer to put it on. We pulled a new computer, that we got that ITS was recycling for it being too old. It was installed with Ubuntu Server LTS 24.04, it was given the name the silver server, since that was our original server's name. We had originally installed Ubuntu on a different computer that we had to use it as a wuzah server, but it's networking was corrupted, as it didn't connect to the internet on our network, so the easyiest thing to do was to pull a new computer.
 ------------------------------
