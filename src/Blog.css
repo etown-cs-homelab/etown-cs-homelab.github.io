@@ -49,6 +49,13 @@ a:hover {
     
 }
 
+.back-button img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    display: block;
+}
+
 .back-button:hover {
     /* border: solid 2px #004B98; */
     background-color: darkgray;

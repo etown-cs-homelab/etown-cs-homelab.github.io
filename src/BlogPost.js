@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { useParams, useNavigate } from 'react-router-dom';
 import './Blog.css';
+import backIcon from './images/back.png';
 
 const BlogPost = () => {
   const { postName } = useParams();
@@ -22,7 +23,7 @@ const BlogPost = () => {
   return (
     
     <div>
-      <button className='back-button' onClick={() => navigate(-1)}>Back</button>
+      <button className='back-button' onClick={() => navigate(-1)}><img src={backIcon}/></button>
       {content ? ( <div className="post-content"> <ReactMarkdown>{content}</ReactMarkdown> </div>) : ( <p>Loading...</p> )}
     </div>
   );
