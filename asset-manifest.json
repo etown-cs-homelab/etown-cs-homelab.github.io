@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.344ccfb0.css",
-    "main.js": "/static/js/main.ce6562fc.js",
+    "main.js": "/static/js/main.bb7dfe84.js",
     "static/js/611.7915ba62.chunk.js": "/static/js/611.7915ba62.chunk.js",
     "static/js/843.b8c3b20a.chunk.js": "/static/js/843.b8c3b20a.chunk.js",
     "static/js/155.1ab1c43d.chunk.js": "/static/js/155.1ab1c43d.chunk.js",
@@ -12,6 +12,7 @@
     "static/media/meeting01.png": "/static/media/meeting01.239abd4c9f4f3f21c9a3.png",
     "static/media/computers.JPG": "/static/media/computers.69b46133254b54652b11.JPG",
     "static/media/setup_12052025.jpg": "/static/media/setup_12052025.e05ea0545b02ff364d67.jpg",
+    "static/media/wazuh.jpg": "/static/media/wazuh.5533f0d1be6d70d720bf.jpg",
     "static/media/E-Logo.png": "/static/media/E-Logo.db236be3b631be4ca286.png",
     "static/media/postTwo.md": "/static/media/postTwo.1002c64ad61a4fd95f92.md",
     "static/media/postSix.md": "/static/media/postSix.6c5cca3f65ef6b5cf50d.md",
@@ -21,11 +22,11 @@
     "static/media/postFive.md": "/static/media/postFive.36309547391e945ba5bc.md",
     "static/media/postOne.md": "/static/media/postOne.63564b1ec7f0f29cf759.md",
     "main.344ccfb0.css.map": "/static/css/main.344ccfb0.css.map",
-    "main.ce6562fc.js.map": "/static/js/main.ce6562fc.js.map",
+    "main.bb7dfe84.js.map": "/static/js/main.bb7dfe84.js.map",
     "453.cc2a9c14.chunk.js.map": "/static/js/453.cc2a9c14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.344ccfb0.css",
-    "static/js/main.ce6562fc.js"
+    "static/js/main.bb7dfe84.js"
   ]
 }
