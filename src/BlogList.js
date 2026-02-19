@@ -7,6 +7,7 @@ import meeting01 from './images/meeting01.png';
 import hardwareSetup from './images/computers.JPG';
 import pcLayout from './images/setup_12052025.jpg';
 import etownLogo from './images/E-Logo.png';
+import wazuh from './images/wazuh.jpg';
 
 
 const posts = [
@@ -15,7 +16,7 @@ const posts = [
   { id: 'postThree', title: 'PC Layout - 12/5/25', image: pcLayout},
   { id: 'postFour', title: 'Meeting with Netizen - 1/15/26', image: etownLogo},
   { id: 'postFive', title: 'Meeting with Netizen - 1/29/26', image: etownLogo},
-  { id: 'postSix', title: 'Installing the Wuzah server - 2/5/26', image: etownLogo},
+  { id: 'postSix', title: 'Installing the Wazuh server - 2/5/26', image: wazuh},
     // TODO: Add more posts
 ];
 
