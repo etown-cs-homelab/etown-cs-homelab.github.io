@@ -8,6 +8,7 @@ import hardwareSetup from './images/computers.JPG';
 import pcLayout from './images/setup_12052025.jpg';
 import etownLogo from './images/E-Logo.png';
 import wazuh from './images/wazuh.jpg';
+import AD from './images/AD.png';
 
 
 const posts = [
@@ -17,7 +18,7 @@ const posts = [
   { id: 'postFour', title: 'Meeting with Netizen - 1/15/26', image: etownLogo},
   { id: 'postFive', title: 'Meeting with Netizen - 1/29/26', image: etownLogo},
   { id: 'postSix', title: 'Installing the Wazuh server - 2/5/26', image: wazuh},
-  { id: 'postSeven', title: 'Installing the Active Directory Server - 2/18/26', image: etownLogo},
+  { id: 'postSeven', title: 'Installing the Active Directory Server - 2/18/26', image: AD},
     // TODO: Add more posts
 ];
 
