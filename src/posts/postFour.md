@@ -1,5 +1,5 @@
 # Meeting with Netizen - 1/15/26
-
+*by Martin Ratchford*
 ## Overview
 
 The team met with Netizen and Dr. Wang in a Microsoft Teams meeting at 11am on January 15th, 2026. We talked about the roadmap for this semester. Asher asked about Wazuh and if there would be any problems that we may run into while integrating it. Apollo responded with the fact that there could be duplicated code in an XML file on Linux and Mac OS. \

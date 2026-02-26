@@ -1,4 +1,5 @@
 # Meeting with Netizen - 10/23/25
+*by the team*
 
 ![Meeting with Netizen](/images/meeting01.png)
 

@@ -17,6 +17,7 @@ const posts = [
   { id: 'postFour', title: 'Meeting with Netizen - 1/15/26', image: etownLogo},
   { id: 'postFive', title: 'Meeting with Netizen - 1/29/26', image: etownLogo},
   { id: 'postSix', title: 'Installing the Wazuh server - 2/5/26', image: wazuh},
+  { id: 'postSeven', title: 'Installing the Active Directory Server - 2/18/26', image: etownLogo},
     // TODO: Add more posts
 ];
 

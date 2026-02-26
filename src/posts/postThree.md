@@ -1,4 +1,5 @@
 # PC Layout
+*by John McGovern*
 
 ![PC Layout](/images/setup_12052025.jpg) \
 ##
