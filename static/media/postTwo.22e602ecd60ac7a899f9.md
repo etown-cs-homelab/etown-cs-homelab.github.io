@@ -1,4 +1,5 @@
 # Network Setup
+*by John McGovern*
 
 ![Network Setup](/images/computers.jpg) ![Network Setup](/images/switch.jpg)
 
