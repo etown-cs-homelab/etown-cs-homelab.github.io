@@ -4,7 +4,7 @@
 ## Setting up the Windows Server
 To set up an active directory, I first decided to set up a windows server. This is something that I needed to do for more reasons than just making an active directory server, as making network drives is something that I knew how to do fairly easily from a Windows server. So I downloaded an installer for windows server 2019 standard from microsoft, put on a usb drive with Rufus, and started installing the server. I installed it on one of the Lenovo computers that Netizen Gave us. It became The Silver Window.
 
-### Detour for setting up the network drives
+## Detour for setting up the network drives
 To set up the network drives you need to install the file and storage services add on to windows server. To do that, I went into server manager, clicked add a role, and installed file and storage services, and the storage quotas. On a server like this you want to install quotas to make sure that you don't accidentally fill up the hard drive with things on the network drive. A drive "quota" means that you can only fill up the drive to so much amount per either drive or user, It's very usefull.  
 After Installing them I went to setting up the network drive, which you do in the tab it adds to server manager for the file services. You need to add a share, and then add the users who have access for the share, which in this case would be everyone on this small network for now. After following through the wizard the silver storage was created.  
 But that's a detour from what the real important thing is, mainly setting up an AD server.
