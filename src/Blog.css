@@ -1,5 +1,11 @@
 body {
-    background-color: #004B98;
+    background-color: #0A2240;
+    /* background: linear-gradient(
+        135deg,
+        #0A2240 0%,
+        #c8c8c8 50%,
+        #004b98 100%
+    ); */
     color: #C8C8C8;
     font-family: Arial, sans-serif;
 }
@@ -15,9 +21,9 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
-    color: #C8C8C8;
-    border: solid 2px #0A2240;
+    text-decoration: none;
+    /* color: #C8C8C8; */
+    border: solid 1px #0A2240;
 }
 
 .post {
@@ -34,6 +40,13 @@ a:hover {
 .post img {
     border-radius: 8px;
     object-fit: cover;
+}
+
+.post-content {
+    background-color: #004b98;
+    /* width: 95%;
+    justify-self: center; */
+    padding-bottom:20px;
 }
 
 .back-button {
@@ -85,6 +98,7 @@ h1 {
 }
 
 .thumbnails-container {
+    background-color: #004b98;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
