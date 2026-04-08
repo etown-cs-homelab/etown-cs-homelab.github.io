@@ -1,7 +1,7 @@
 # Network Setup
 *by John McGovern*
 
-![Network Setup](/images/computers.jpg) ![Network Setup](/images/switch.jpg)
+![Network Setup](/images/computers.JPG) ![Network Setup](/images/switch.JPG)
 
 ## Hardware
 Dell OptiPlex 3050 \
