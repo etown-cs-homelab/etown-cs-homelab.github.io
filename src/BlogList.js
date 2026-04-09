@@ -10,17 +10,19 @@ import etownLogo from './images/E-Logo.png';
 import wazuh from './images/wazuh.jpg';
 import AD from './images/AD.png';
 import javascreen from './images/JavaScreen.png';
+import SCAD from './images/scadPostCover.jpg';
 
 
 const posts = [
-  { id: 'postOne', title: 'Meeting with Netizen - 10/23/25', image: meeting01 },
+  { id: 'postOne', title: 'Noted Meetings with Netizen', image: meeting01 },
   { id: 'postTwo', title: 'Network Setup - 11/20/25', image: hardwareSetup },
   { id: 'postThree', title: 'PC Layout - 12/5/25', image: pcLayout},
-  { id: 'postFour', title: 'Meeting with Netizen - 1/15/26', image: etownLogo},
-  { id: 'postFive', title: 'Meeting with Netizen - 1/29/26', image: etownLogo},
+  // { id: 'postFive', title: 'Meeting with Netizen - 1/29/26', image: etownLogo},
   { id: 'postSix', title: 'Installing the Wazuh server - 2/5/26', image: wazuh},
   { id: 'postSeven', title: 'Installing the Active Directory Server - 2/18/26', image: AD},
   { id: 'postEight', title: 'The Silver Slayer (TSS) - 3/24/26', image: javascreen},
+  { id: 'postFour', title: 'Scholarship and Creative Arts Day Poster - 4/1/26', image: SCAD},
+
     // TODO: Add more posts
 ];
 

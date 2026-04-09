@@ -10,6 +10,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+h1 {
+    padding-top: 20px;
+}
+
 h1, h2, h3 {
     color: #C8C8C8;
     background-color: #0A2240;
@@ -23,7 +27,9 @@ a {
 a:hover {
     text-decoration: none;
     /* color: #C8C8C8; */
-    border: solid 1px #0A2240;
+    /* border: solid 1px #0A2240; */
+    
+    
 }
 
 .post {
@@ -35,6 +41,12 @@ a:hover {
     flex-direction: column;
     align-items: center;
     gap: 15px;
+}
+
+.post:hover {
+    background-color: rgb(200, 200, 200, .3);
+    color: #4da6ff;
+    
 }
 
 .post img {

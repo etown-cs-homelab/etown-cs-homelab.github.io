@@ -24,7 +24,13 @@ const BlogPost = () => {
     
     <div>
       <button className='back-button' onClick={() => navigate(-1)}><img src={backIcon}/></button>
-      {content ? ( <div className="post-content"> <ReactMarkdown>{content}</ReactMarkdown> </div>) : ( <p>Loading...</p> )}
+      {content ? ( <div className="post-content"> 
+        <ReactMarkdown
+          components={{ img: ({ node, ...props }) => (
+          <img {...props} style={{ width: '50%', height: 'auto' }} />
+          )}}
+        >
+        {content}</ReactMarkdown> </div>) : ( <p>Loading...</p> )}
     </div>
   );
 };
