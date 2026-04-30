@@ -1,5 +1,5 @@
 # The Silver Slayer (TSS) Final Presentation
-*by Martin Ratchford*
+*by TSS Team*
 
 ## Overview
 Our team had the opportunity to present our project at SCAD Day. To prepare for the presentation we created a slideshow to show off all we've made. Here is our final presentation.
