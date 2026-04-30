@@ -1,5 +1,5 @@
 # SCAD Poster
-*by Martin Ratchford*
+*by TSS Team*
 
-![SCAD Poster](/images/ScadPoster.png)
+![SCAD Poster](/images/ScadPoster.jpg)
 
